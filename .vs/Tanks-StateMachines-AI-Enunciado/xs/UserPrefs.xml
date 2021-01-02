@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C5343DD6-463C-D210-2C9C-BF4EB5E2A8EE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/#StateMachineAI/Scripts/ScriptableObjectsScripts/ActiveStateDecision.cs">
+    <Files>
+      <File FileName="Assets/#StateMachineAI/Scripts/ScriptableObjectsScripts/ActiveStateDecision.cs" Line="15" Column="2" />
+      <File FileName="Assets/#StateMachineAI/Scripts/ScriptableObjectsScripts/AttackAction.cs" Line="18" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

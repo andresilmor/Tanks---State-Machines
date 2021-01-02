@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4222a4502eaa74e7b940198610f0b178, type: 3}
+  m_Name: GoRefillScanner
+  m_EditorClassIdentifier: 
+  stateName: GoRefillScanner
+  actions:
+  - {fileID: 11400000, guid: 193085b6516fbab44a8d8f9a3e55aaa5, type: 2}
+  sceneGizmoColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  transitions:
+  - decision: {fileID: 11400000, guid: d0d7c13760645d94ead7d4ccdc3d5dd6, type: 2}
+    trueState: {fileID: 11400000, guid: 318f5de4a16e26243824a6df653353cc, type: 2}
+    falseState: {fileID: 11400000, guid: 1b051789082c1451d8afc5bcc584740a, type: 2}

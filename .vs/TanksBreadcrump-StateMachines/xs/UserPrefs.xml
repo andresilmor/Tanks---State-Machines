@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{97F3032A-5573-0D7C-6D2D-74436FA3FAEA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Tank/TankShooting.cs">
+    <Files>
+      <File FileName="Assets/Scripts/StateMachine/Scripts/StateController.cs" Line="81" Column="46" />
+      <File FileName="Assets/Scripts/StateMachine/Scripts/ScriptableObjectsScripts/AttackAction.cs" Line="27" Column="43" />
+      <File FileName="Assets/Scripts/Tank/TankShooting.cs" Line="107" Column="13" />
+      <File FileName="Assets/Scripts/StateMachine/Scripts/ScriptableObjectsScripts/EnemyStats.cs" Line="25" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

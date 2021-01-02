@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{BED5742F-52D7-7B52-6D92-BB3B0AB21E75}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Tank/TankFollowGoldTank.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Shell/ShellExplosion.cs" Line="84" Column="2" />
+      <File FileName="Assets/Scripts/Tank/TankShooting.cs" Line="66" Column="32" />
+      <File FileName="Assets/Scripts/Managers/TankManager.cs" Line="36" Column="1" />
+      <File FileName="Assets/Scripts/Tank/TankMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Tank/TankFollowGoldTank.cs" Line="56" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jpaulo/Documents/ESACT/Aulas/1-Semestre/IA/Exercicios/Exercícios das Aulas/TanksRaw/Assets/Scripts/Shell/ShellExplosion.cs" relfile="Assets/Scripts/Shell/ShellExplosion.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

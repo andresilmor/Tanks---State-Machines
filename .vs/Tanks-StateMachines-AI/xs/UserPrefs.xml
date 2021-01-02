@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{EEE2BF10-48CB-847B-D800-F9FF055C13A1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Tank/TankShooting.cs">
+    <Files>
+      <File FileName="Assets/#StateMachineAI/Scripts/Manager/GameManager.cs" Line="68" Column="31" />
+      <File FileName="Assets/#StateMachineAI/Scripts/Manager/TankManager.cs" Line="61" Column="1" />
+      <File FileName="Assets/Scripts/Tank/TankMovement.cs" Line="65" Column="1" />
+      <File FileName="Assets/Scripts/Tank/TankBlueMovement.cs" Line="20" Column="107" />
+      <File FileName="Assets/Scripts/Tank/TankGoldMovement.cs" Line="25" Column="5" />
+      <File FileName="Assets/#StateMachineAI/Scripts/StateController.cs" Line="77" Column="10" />
+      <File FileName="Assets/#StateMachineAI/Scripts/ScriptableObjectsScripts/ChaseAction.cs" Line="19" Column="55" />
+      <File FileName="Assets/#StateMachineAI/Scripts/ScriptableObjectsScripts/ScanAction.cs" Line="19" Column="5" />
+      <File FileName="Assets/#StateMachineAI/Scripts/ScriptableObjectsScripts/ActiveStateDecision.cs" Line="15" Column="2" />
+      <File FileName="Assets/#StateMachineAI/Scripts/ScriptableObjectsScripts/PatrolAction.cs" Line="27" Column="10" />
+      <File FileName="Assets/#StateMachineAI/Scripts/ScriptableObjectsScripts/AttackAction.cs" Line="16" Column="24" />
+      <File FileName="Assets/Scripts/Tank/TankShooting.cs" Line="21" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jpaulo/Documents/ESACT/Aulas/1-Semestre/IA/Exercicios/Exercícios das Aulas/Tanks-StateMachines-AI/Assets/#StateMachineAI/Scripts/ScriptableObjectsScripts/AttackAction.cs" relfile="Assets/#StateMachineAI/Scripts/ScriptableObjectsScripts/AttackAction.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

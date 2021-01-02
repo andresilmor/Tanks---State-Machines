@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4222a4502eaa74e7b940198610f0b178, type: 3}
+  m_Name: ChaseScanner
+  m_EditorClassIdentifier: 
+  stateName: ChaseScanner
+  actions:
+  - {fileID: 11400000, guid: d791ee8d59f5a4af8ad6ed95b9d0d5e2, type: 2}
+  - {fileID: 11400000, guid: 912a59351daf745b1b9e061b29bf2b0b, type: 2}
+  sceneGizmoColor: {r: 1, g: 0, b: 0, a: 1}
+  transitions:
+  - decision: {fileID: 11400000, guid: 913ed06b9bf680a4888bc0fbc0650276, type: 2}
+    trueState: {fileID: 11400000, guid: 5d03e43a7ae52404d9eafa670391d076, type: 2}
+    falseState: {fileID: 11400000, guid: 1b051789082c1451d8afc5bcc584740a, type: 2}
+  - decision: {fileID: 11400000, guid: 588af3ac0c8aa5b4fb012a33189810c0, type: 2}
+    trueState: {fileID: 11400000, guid: 5f08a53400870884cb303609bad9a940, type: 2}
+    falseState: {fileID: 11400000, guid: 1b051789082c1451d8afc5bcc584740a, type: 2}
+  - decision: {fileID: 11400000, guid: c8570dce9a4b21b4493b9bb0e1049a70, type: 2}
+    trueState: {fileID: 11400000, guid: a32a1f2a40d47174faffb350533ec69d, type: 2}
+    falseState: {fileID: 11400000, guid: 1b051789082c1451d8afc5bcc584740a, type: 2}
+  - decision: {fileID: 11400000, guid: ae7237e205b6942f4969bc86e85fa7c4, type: 2}
+    trueState: {fileID: 11400000, guid: 1b051789082c1451d8afc5bcc584740a, type: 2}
+    falseState: {fileID: 11400000, guid: 717355e0ce5304f0f8ee35ecfed274ef, type: 2}
